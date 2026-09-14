@@ -135,9 +135,9 @@ Mass **YouTube video downloader**, **YouTube MP4 downloader**, **YouTube MP3 dow
 ## ⚙️ Installation
 
 ### Windows
-- Download the latest `.exe` installer or `.zip` archive from [Releases](../../releases)  
+- Download the latest `.7z` archive from [Releases](../../releases)  
 - Both packages include all dependencies including FFmpeg  
-- Run the installer or extract the `.zip` and run `YouTube Downloader.exe`  
+- Run the installer or extract the `.zip` and run `YouTube-Downloader-x64.exe`  
 
 ---
 
